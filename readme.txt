@@ -28,3 +28,10 @@ Plugin ini membutuhkan plugin Carbon Fields versi V3.6.0 untuk di install. (waji
 
 ==Support==
 https://budiharyono.com/repo/plugins/75/plugin-floating-ads-wordpress-wp-simple-floating-ads-by-masmon/
+https://budiharyono.com/jasa-pembuatan-web/
+
+==Demo==
+https://id-outsourcing.web.id/
+
+==Download Carbon Fields==
+https://carbonfields.net/release-archive/
